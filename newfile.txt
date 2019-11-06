@@ -1,0 +1,10 @@
+## SAM - Create JIRA task for Hamza ##
+
+## WAF - Get CF template from Bob ##
+
+1) Granting access to our git repo - 
+	learn git
+	##set up meeting with EIS##
+	transfer requirements to Lulu
+
+2) ##SAM tasks##
