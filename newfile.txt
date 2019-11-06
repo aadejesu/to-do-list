@@ -8,3 +8,5 @@
 -- create a repository on the github website
 -- copy the url and connect to the repository with (git remote add 'unique name' 'url') >> "without quotes"
 -- push your file/code from local to the repo with (git push -u 'unique name' master) "without quotes"
+Hello
+-- that was a wrong fomart, but moving on --
